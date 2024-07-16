@@ -19,15 +19,15 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#49b0ce",
-          "foreground": "#ffffff",
+          "background": "#435076",
+          "foreground": "#BCBEC4",
           "powerline_symbol": "",
           "style": "powerline",
           "template": " {{ .UserName }} ",
           "type": "session"
         },
         {
-          "background": "#bc25a4",
+          "background": "#3d3d3d",
           "foreground": "#BCBEC4",
           "powerline_symbol": "",
           "properties": {
@@ -41,7 +41,7 @@
           "type": "path"
         },
         {
-          "background": "#b37eee",
+          "background": "#7c60a2",
           "foreground": "#BCBEC4",
           "powerline_symbol": "",
           "style": "powerline",
