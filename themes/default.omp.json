@@ -160,7 +160,7 @@
           "type": "time"
         },
         {
-          "foreground": "#B6D6F2",
+          "foreground": "#b6d0f2",
           "leading_diamond": "<#00C7FC> \uf07b </><#B6D6F2> in </>",
           "properties": {
             "folder_icon": " \uf07c ",
