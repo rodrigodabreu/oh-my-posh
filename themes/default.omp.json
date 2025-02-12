@@ -62,7 +62,7 @@
             "display_mode": "context"
           },
           "foreground": "#011627",
-          "background": "#FFDE57",
+          "background": "#8457ff",
           "template": " \ue73c {{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }} "
         },
         {
@@ -70,7 +70,7 @@
           "style": "powerline",
           "powerline_symbol": "\ue0b0",
           "foreground": "#ffffff",
-          "background": "#7FD5EA",
+          "background": "#e17fea",
           "template": " \u202d\ue626 {{ .Full }} "
         },
         {
@@ -82,7 +82,7 @@
           "template": " \ue7a8 {{ .Full }} "
         },
         {
-          "background": "#1BD4CD",
+          "background": "#9c7de4",
           "background_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#16B1AC{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#16B1AC{{ end }}",
@@ -151,7 +151,7 @@
           "type": "text"
         },
         {
-          "foreground": "#F2D3B6",
+          "foreground": "#b6c9f2",
           "properties": {
             "time_format": "<#D6DEEB>\ue641 15:04:05</> <#79DFE1>|</> \uf073 2 Jan, Monday"
           },
