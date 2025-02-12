@@ -31,8 +31,8 @@
           "type": "os"
         },
         {
-          "background": "#00C7FC",
-          "foreground": "#011627",
+          "background": "#484a6e",
+          "foreground": "#f3f3f3",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": " \uf489 {{ .Name }} ",
