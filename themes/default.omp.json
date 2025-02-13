@@ -8,7 +8,7 @@
         {
           // "background": "#575656",
           "foreground": "#7eb8da",
-          "leading_diamond": "\ue0b2",
+          // "leading_diamond": "\ue0b2",
           "properties": {
             "alpine": "\uf300",
             "arch": "\uf303",
@@ -26,7 +26,7 @@
             "ubuntu": "\uf31c",
             "windows": "\ue70f"
           },
-          "style": "diamond",
+          // "style": "diamond",
           "template": " {{ if .WSL }}\ue712 on {{ end }}{{ .Icon }} ",
           "type": "os"
         },
@@ -121,7 +121,7 @@
           "properties": {
             "always_enabled": true
           },
-          "style": "diamond",
+          // "style": "diamond",
           "template": " {{ if gt .Code 0 }}\uf00d{{ else }}\uf00c{{ end }} ",
           "type": "status"
         },
@@ -132,7 +132,7 @@
             "style": "roundrock",
             "threshold": 0
           },
-          "style": "diamond",
+          // "style": "diamond",
           "template": " \uf252 {{ .FormattedMs }} ",
           "trailing_diamond": "\ue0b4",
           "type": "executiontime"
@@ -169,7 +169,7 @@
             "style": "agnoster_short",
             "max_depth": 3
           },
-          "style": "diamond",
+          // "style": "diamond",
           "template": " {{ .Path }} ",
           "type": "path"
         }
