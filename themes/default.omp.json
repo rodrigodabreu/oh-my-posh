@@ -109,7 +109,7 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "#03DED3",
+          "background": "#03de78",
           "background_templates": [
             "{{ if gt .Code 0 }}#E44141{{ end }}"
           ],
