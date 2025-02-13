@@ -62,7 +62,7 @@
             "display_mode": "context"
           },
           "foreground": "#011627",
-          "background": "#8457ff",
+          "background": "#6c6b6d",
           "template": " \ue73c {{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }} "
         },
         {
