@@ -31,7 +31,7 @@
           "type": "os"
         },
         {
-          "background": "#484a6e",
+          "background": "#ca6d22",
           "foreground": "#f3f3f3",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
